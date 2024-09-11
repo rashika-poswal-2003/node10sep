@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Curry",
+        "last_name": "Bissell",
+        "email": "cbissell0@columbia.edu",
+        "gender": "Male",
+        "ip_address": "188.226.241.248"
+    },
+    {
+        "id": 2,
+        "first_name": "Bastien",
+        "last_name": "Sheehan",
+        "email": "bsheehan1@spotify.com",
+        "gender": "Male",
+        "ip_address": "187.64.88.18"
+    },
+    {
+        "id": 3,
+        "first_name": "Jim",
+        "last_name": "Mosley",
+        "email": "jmosley2@lulu.com",
+        "gender": "Male",
+        "ip_address": "155.162.26.224"
+    },
+    {
+        "id": 4,
+        "first_name": "Rey",
+        "last_name": "Tingey",
+        "email": "rtingey3@cafepress.com",
+        "gender": "Male",
+        "ip_address": "36.123.11.190"
+    },
+    {
+        "id": 5,
+        "first_name": "Prent",
+        "last_name": "Storkes",
+        "email": "pstorkes4@jiathis.com",
+        "gender": "Male",
+        "ip_address": "226.39.116.192"
+    },
+    {
+        "id": 6,
+        "first_name": "Jarrad",
+        "last_name": "Crother",
+        "email": "jcrother5@rakuten.co.jp",
+        "gender": "Male",
+        "ip_address": "105.26.211.111"
+    },
+    {
+        "id": 7,
+        "first_name": "Adelbert",
+        "last_name": "Lundie",
+        "email": "alundie6@fema.gov",
+        "gender": "Male",
+        "ip_address": "2.142.230.194"
+    },
+    {
+        "id": 8,
+        "first_name": "Aubrey",
+        "last_name": "Szubert",
+        "email": "aszubert7@redcross.org",
+        "gender": "Non-binary",
+        "ip_address": "158.206.11.4"
+    },
+    {
+        "id": 9,
+        "first_name": "Taryn",
+        "last_name": "Densumbe",
+        "email": "tdensumbe8@360.cn",
+        "gender": "Female",
+        "ip_address": "206.96.128.240"
+    },
+    {
+        "id": 10,
+        "first_name": "Stanley",
+        "last_name": "Giacopelo",
+        "email": "sgiacopelo9@china.com.cn",
+        "gender": "Male",
+        "ip_address": "128.31.101.34"
+    }
+]
